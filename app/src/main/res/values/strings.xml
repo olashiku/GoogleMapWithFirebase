@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleFcmProject</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">your_firebase_key_here</string>
+    <string name="msg_token_fmt">%s</string>
+</resources>
